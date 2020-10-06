@@ -1,0 +1,24 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: jacquelynjoan.html
+    - text: "Examples"
+      menu:
+        - text: "Plotly"
+          href: plotly.html
+        - text: "Dashboard"
+          href: dashboard.html
+        - text: "Contributions"
+          href: contributions.html
+    - icon: fa-linkedin fa-lg
+      href: http://linkedin.com/in/jacquelynjoan
+    - icon: fa-envelope fa-lg
+      href: mailto:<jacquelynjoan@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/jacquelynjoan/
+output:
+  html_document:
+    theme: cerulean

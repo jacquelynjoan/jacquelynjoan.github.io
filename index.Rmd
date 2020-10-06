@@ -1,0 +1,15 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jacquelyn's awesome website
+
+My name is Jared and I make teams better!!
+
+You can learn about me [here](jacquelynjoan.html)
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
