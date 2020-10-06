@@ -8,7 +8,7 @@ output:
 
 # This is Jacquelyn's awesome website
 
-My name is Jared and I make teams better!!
+My name is Jacquelyn and I make teams better!!
 
 You can learn about me [here](jacquelynjoan.html)
 
