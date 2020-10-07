@@ -1,0 +1,6 @@
+---
+title: "thesis"
+author: "Jacquelyn Fusco"
+date: "10/6/2020"
+output: html_document
+---
