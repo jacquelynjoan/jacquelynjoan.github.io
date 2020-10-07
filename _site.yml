@@ -5,14 +5,14 @@ navbar:
   right:
     - text: "About"
       href: jacquelynjoan.html
-    - text: "Examples"
+    - text: "Hobbies and Interests"
       menu:
-        - text: "Plotly"
-          href: plotly.html
-        - text: "Dashboard"
-          href: dashboard.html
-        - text: "Contributions"
-          href: contributions.html
+        - text: "Family History"
+          href: family_history.html
+        - text: "Crochet Projects"
+          href: crochet.html
+        - text: "Thesis Writing Sample"
+          href: thesis.html
     - icon: fa-linkedin fa-lg
       href: http://linkedin.com/in/jacquelynjoan
     - icon: fa-envelope fa-lg

@@ -1,0 +1,151 @@
+---
+title: "Jacquelyn Fusco"
+author: "Politicial scientist seeking \n an administrative role doing a public service \n in the nonprofit sector"
+date: "10/06/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, eval = FALSE)
+library(tidyverse)
+```
+
+```{r}
+name = "Jacquelyn Fusco"
+desc = "Politicial scientist seeking \n an administrative role doing a public service \n in the nonprofit sector"
+cell = "(516) 456-2946"
+email = "jacquelynjoan@gmail.com"
+address = "439 West Olive Street \n Long Beach, NY 11561"
+header = tibble(
+  about = c(name, desc, address),
+  contact = c("", cell, email)
+)
+```
+
+```{r, fig.width = 12}
+header %>% 
+  knitr::kable(col.names = c("",""), format = "markdown", padding = 2)
+```
+
+
+|         |              |
+| ------  | ------------ |
+| cell    |$~~$ (516) 456-2946 |
+| email   |$~~$ jacquelynjoan@gmail.com |
+| address |$~~$ 439 West Olive Street, Long Beach, NY 11561 |
+| LinkedIn |$~~$ https://www.linkedin.com/in/jacquelynjoan
+
+***
+
+## Experience
+
+***
+Northwell Health, Lake Success, NY
+
+September 2018 - present
+
+Human Resources Call Center Customer Service Specialist
+
+Explained benefits to 12,000 employees via online chats and answering phones.
+
+Traced 1,500 missing paychecks by interviewing HR representatives to diagnose the problem.
+
+Interpreted 5,000 payroll discrepancies by counselling the employee how to resolve the issue.
+
+***
+
+May 2018 - August 2018
+
+Donor Acknowledgement Operations Specialist
+
+Drafted and proofread 1,000 thank you letters using Lexis Nexis and Raiser’s Edge to double-check details including name, title, and the reason for the donation reducing mistakes by 99%.
+
+Communicated tax acknowledgment query results to team members daily.
+
+***
+
+October 2017 - May 2018
+
+Data Management Donations Operations Specialist
+
+Reported up to 100 fundraising donations per day for 27 hospitals using Raiser’s Edge.
+
+Researched checks to extract donor details daily for reports in Raiser’s Edge.
+
+***
+
+March 2017 - October 2017
+
+Clinical Data Management Operations Specialist
+
+Coordinated with 20 healthcare practices to transfer healthcare information to a database using Excel.
+
+Taught providers to complete forms and update biweekly checklists to maintain incentive eligibility.
+
+***
+
+January 2017 - March 2017
+
+Talent Acquisition Onboarding Specialist
+
+Facilitated the onboarding of over 400 new employees by organizing resumes and background checks.
+
+***
+
+## Activities
+
+***
+
+Nassau County Democratic Socialists of America
+
+July 2019 - June 2020
+
+Grassroots Organization Executive Secretary
+
+Wrote email campaigns to direct members to attend events and reported minutes at meetings monthly.
+
+Redesigned cloud management of the communication systems, including shared documents, event details and volunteer lists to improve social media reach by 300%.
+
+***
+
+Sunrise Movement, Long Island, NY				  	  	 
+
+March 2018 - January 2020
+
+Founder, Sunrise Hub Coordinator
+
+Recruited 5 young people to persuade state representatives and elected officials to support climate justice legislation to reduce greenhouse gases 100% by 2030.
+
+Recommended 200 people to vote for a climate champion in a local election.
+
+***
+
+Long Island Progressive Coalition, Massapequa, NY	        	        	        
+
+October 2017 - December 2019
+
+Environmental Community Organizer Volunteer
+
+Liaised with 20 people from community organizations across Long Island to support climate action in New York. 
+
+Led a workshop about intersectionality in the climate movement at a climate summit held in Brentwood, NY to educate 50 people.
+
+***
+
+## Education
+
+***
+
+Baruch College School of Public Affairs, New York, NY
+
+Master of Public Administration (M.P.A.), concentration in Nonprofit Management
+
+Thesis: “The Importance of Cultural Change and the Dangers in Dismissing It”
+
+***
+
+Long Island University, C.W. Post Campus, Brookville, NY
+
+Bachelor of Arts (B.A.) in Political Science
+
+Minor in Sociology
