@@ -1,6 +1,7 @@
 ---
-title: "crochet"
-author: "Jacquelyn Fusco"
-date: "10/6/2020"
-output: html_document
+title: "Crochet Projects"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---

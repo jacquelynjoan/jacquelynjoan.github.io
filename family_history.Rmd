@@ -1,6 +1,7 @@
 ---
-title: "family_history"
-author: "Jacquelyn Fusco"
-date: "10/6/2020"
-output: html_document
+title: "Family History"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
