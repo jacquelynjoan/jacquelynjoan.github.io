@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE, eval = FALSE)
 library(tidyverse)
 ```
 
-```{r}
+```{r, eval = FALSE}
 name = "Jacquelyn Fusco"
 desc = "Politicial scientist seeking \n an administrative role doing a public service \n in the nonprofit sector"
 cell = "(516) 456-2946"
@@ -22,9 +22,10 @@ header = tibble(
 )
 ```
 
-```{r, fig.width = 12}
+```{r, fig.width = 12, eval = FALSE}
 header %>% 
-  knitr::kable(col.names = c("",""), format = "markdown", padding = 2)
+  knitr::kable()
+  # knitr::kable(col.names = c("",""), format = "markdown", padding = 2)
 ```
 
 
