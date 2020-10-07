@@ -40,11 +40,11 @@ header %>%
 ## Experience
 
 ***
-Northwell Health, Lake Success, NY
+### Northwell Health, Lake Success, NY
 
-September 2018 - present
+#### September 2018 - present
 
-Human Resources Call Center Customer Service Specialist
+##### Human Resources Call Center Customer Service Specialist
 
 Explained benefits to 12,000 employees via online chats and answering phones.
 
@@ -54,9 +54,9 @@ Interpreted 5,000 payroll discrepancies by counselling the employee how to resol
 
 ***
 
-May 2018 - August 2018
+#### May 2018 - August 2018
 
-Donor Acknowledgement Operations Specialist
+##### Donor Acknowledgement Operations Specialist
 
 Drafted and proofread 1,000 thank you letters using Lexis Nexis and Raiser’s Edge to double-check details including name, title, and the reason for the donation reducing mistakes by 99%.
 
@@ -64,9 +64,9 @@ Communicated tax acknowledgment query results to team members daily.
 
 ***
 
-October 2017 - May 2018
+#### October 2017 - May 2018
 
-Data Management Donations Operations Specialist
+##### Data Management Donations Operations Specialist
 
 Reported up to 100 fundraising donations per day for 27 hospitals using Raiser’s Edge.
 
@@ -74,9 +74,9 @@ Researched checks to extract donor details daily for reports in Raiser’s Edge.
 
 ***
 
-March 2017 - October 2017
+#### March 2017 - October 2017
 
-Clinical Data Management Operations Specialist
+##### Clinical Data Management Operations Specialist
 
 Coordinated with 20 healthcare practices to transfer healthcare information to a database using Excel.
 
@@ -84,9 +84,9 @@ Taught providers to complete forms and update biweekly checklists to maintain in
 
 ***
 
-January 2017 - March 2017
+#### January 2017 - March 2017
 
-Talent Acquisition Onboarding Specialist
+##### Talent Acquisition Onboarding Specialist
 
 Facilitated the onboarding of over 400 new employees by organizing resumes and background checks.
 
@@ -96,11 +96,11 @@ Facilitated the onboarding of over 400 new employees by organizing resumes and b
 
 ***
 
-Nassau County Democratic Socialists of America
+### Nassau County Democratic Socialists of America
 
-July 2019 - June 2020
+#### July 2019 - June 2020
 
-Grassroots Organization Executive Secretary
+##### Grassroots Organization Executive Secretary
 
 Wrote email campaigns to direct members to attend events and reported minutes at meetings monthly.
 
@@ -108,11 +108,11 @@ Redesigned cloud management of the communication systems, including shared docum
 
 ***
 
-Sunrise Movement, Long Island, NY				  	  	 
+### Sunrise Movement, Long Island, NY				  	  	 
 
-March 2018 - January 2020
+#### March 2018 - January 2020
 
-Founder, Sunrise Hub Coordinator
+##### Founder, Sunrise Hub Coordinator
 
 Recruited 5 young people to persuade state representatives and elected officials to support climate justice legislation to reduce greenhouse gases 100% by 2030.
 
@@ -120,11 +120,11 @@ Recommended 200 people to vote for a climate champion in a local election.
 
 ***
 
-Long Island Progressive Coalition, Massapequa, NY	        	        	        
+### Long Island Progressive Coalition, Massapequa, NY	        	        	        
 
-October 2017 - December 2019
+#### October 2017 - December 2019
 
-Environmental Community Organizer Volunteer
+##### Environmental Community Organizer Volunteer
 
 Liaised with 20 people from community organizations across Long Island to support climate action in New York. 
 
@@ -136,16 +136,16 @@ Led a workshop about intersectionality in the climate movement at a climate summ
 
 ***
 
-Baruch College School of Public Affairs, New York, NY
+### Baruch College School of Public Affairs, New York, NY
 
-Master of Public Administration (M.P.A.), concentration in Nonprofit Management
+#### Master of Public Administration (M.P.A.), concentration in Nonprofit Management
 
 Thesis: “The Importance of Cultural Change and the Dangers in Dismissing It”
 
 ***
 
-Long Island University, C.W. Post Campus, Brookville, NY
+### Long Island University, C.W. Post Campus, Brookville, NY
 
-Bachelor of Arts (B.A.) in Political Science
+#### Bachelor of Arts (B.A.) in Political Science
 
 Minor in Sociology
