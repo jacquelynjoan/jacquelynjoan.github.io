@@ -17,8 +17,12 @@ navbar:
       href: http://linkedin.com/in/jacquelynjoan
     - icon: fa-envelope fa-lg
       href: mailto:<jacquelynjoan@gmail.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/jacquelynjoan/
+    - icon: fa-facebook fa-lg
+      href: http://facebook.com/jacquelynjoan/
+    - icon: fa-twitter fa-lg
+      href: http://twitter.com/jacquelynjoan
+    - icon: fa-instagram fa-lg
+      href: http://instagram.com/jacquelynjoan
 output:
   html_document:
     theme: cerulean
