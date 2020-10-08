@@ -5,3 +5,23 @@ output:
     toc: true
     toc_float: true
 ---
+
+## I crochet cute things!!
+
+### I lost my hat at my friend's house late one night. It was really warm.
+
+![Crochet Beanie](./crochet_files/Crochet_beanie.jpg)
+
+### I also make hats for cats.
+
+![My Luna](./crochet_files/Crochet_witch_hat_.jpg)
+
+### Unfortunately, some of my favorite blankets were ruined during Hurricane Sandy.
+
+![It takes a long time to make a big blanket!](./crochet_files/bigger_than_me.jpg)
+
+![Cat for scale](./crochet_files/marcello_green_blanket.jpg)
+
+### Bonus pic of me about to sneeze in my crochet scarf.
+
+![Copper Scarf](./crochet_files/me_copper_scarf.jpg)
