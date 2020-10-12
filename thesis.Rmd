@@ -1,7 +1,14 @@
 ---
 title: "My Master's Thesis"
-output: 
+output:
   html_document:
     toc: true
-    toc_float: true
 ---
+
+<object data="./thesis_files/My Thesis_ Cultural Change_ Its Critical Role In Activism & The Dangers of Dismissing It.pdf" width="750px" height="750px">
+    <embed src="./thesis_files/My Thesis_ Cultural Change_ Its Critical Role In Activism & The Dangers of Dismissing It.pdf">
+    </embed>
+</object>
+
+
+[Download](thesis_files/My Thesis_ Cultural Change_ Its Critical Role In Activism & The Dangers of Dismissing It.pdf)
